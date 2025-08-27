@@ -1,2 +1,2 @@
-#!/Bin/Bash
+#!/bin/bash
 echo Hello Scripting
