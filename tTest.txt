@@ -1,0 +1,2 @@
+I fked up with (ls > termTest.txt) it just listed and saved directory into it
+Too many mistakes - I mean I am learning - don't be too harsh
