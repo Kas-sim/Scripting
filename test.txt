@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "enter your name"
+read name
+
+echo "which subject are your studying"
+read subject
+
+echo "who sucks in $subject"
+echo "\nyes $name"

@@ -4,3 +4,4 @@ while read line
 do 
     echo $line
 done < tTest.txt
+

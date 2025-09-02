@@ -1,0 +1,13 @@
+ .git
+ conditionals.sh
+ helloMe.sh
+ outputs.txt
+ readFromFile.sh
+ run.sh
+ shellTest.sh
+ test.sh
+ test.txt
+ test2.sh
+ test3.sh
+ tTest.txt
+ var.sh
