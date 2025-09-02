@@ -5,10 +5,10 @@ read num1
 
 num0=69
 
-if [[ $num0 > $num1 ]]; then
+if [[ $num0 -gt $num1 ]]; then
     echo "Raise your Standards"
-elif [[ $num0 < $num1 ]]; then
+elif [[ $num0 -lt $num1 ]]; then
     echo "Lower your Standards"
 else
-     echo " You gto a taste ;) "
+     echo " You got a taste ;) "
 fi
