@@ -1,9 +1,0 @@
- .git
- helloMe.sh
- run.sh
- shellTest.sh
- termTest.txt
- test.sh
- test2.sh
- test3.sh
-
