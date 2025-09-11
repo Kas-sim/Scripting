@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+set -euo pipefail   # fail fast, error on undefined vars, pipeline errors exit non-zero
+IFS=$'\n\t'         # safe field splitting
+
 echo "Check if file exist"
 read file_name
 
