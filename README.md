@@ -18,7 +18,8 @@ This repo is my sandbox: part learning ground, part utility box.
 ### 🧪 Experiments & Practice
 - File & directory checker (works in current directory only)  
 - Password checker  
-- Automated script runner (execute any file from anywhere, no manual chmod/cd)  
+- Automated script runner (execute any file from anywhere, no manual chmod/cd)
+- iq Test, reading from files
 
 ---
 
