@@ -8,6 +8,7 @@ This repo is my sandbox: part learning ground, part utility box.
 ## 📂 Highlights & Projects
 
 ### ✅ Completed / Functional
+- **Project 7** – run Jupyter Lab  
 - **Project 6** – Storage cleanup  
 - **Project 5** – Storage checker  
 - **Project 4** – Backup system  
